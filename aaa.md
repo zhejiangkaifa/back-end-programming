@@ -20,17 +20,7 @@
      的Utility 篇。
    * 掌握 Web 开发框架。我们使用 Spring\(或Rose\) + Ibatis\(或Jade\) 开发 web 服务，你需要熟练掌握它们。
    * 学习代码规范。我们大致上遵循 oracle 的 Java 语言编码规范，你可以先阅读并熟悉它。Code Formatting 文件在 git@xxx/coding-standard.git，在编写代码之前，请把它导入到 IDE 中。另外，确认 IDE 已经安装 Findbugs 和 CheckStyle 插件。
-   * 熟悉开发流程。我们的开发流程大致如下：功能开发-
-     &gt;
-     单元测试-
-     &gt;
-     功能测试-
-     &gt;
-     Code Review-
-     &gt;
-     集成测试-
-     &gt;
-     发布。确保你熟悉其中的每个环节。
+   * 熟悉开发流程。我们的开发流程大致如下：功能开发-&gt;单元测试-&gt;功能测试-&gt;Code Review-&gt;集成测试-&gt;发布。确保你熟悉其中的每个环节。
    * 其他。需要熟练使用版本控制工具 Git（阅读：《Git 权威指南》），以及项目构建工具 Maven（阅读：《Maven 实战》）。另外，在这个阶段可以尝试 TDD 开发。
 
 进阶（2-6 个月）
