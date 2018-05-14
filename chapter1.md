@@ -1,3 +1,4 @@
-# First Chapter
+# Java基础
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+假设阅读者有基本的java基础
+
