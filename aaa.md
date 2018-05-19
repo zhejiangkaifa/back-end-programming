@@ -1,12 +1,10 @@
 作者：谢龙
 
-链接：https://www.zhihu.com/question/29581524/answer/44872235
+链接：[https://www.zhihu.com/question/29581524/answer/44872235](https://www.zhihu.com/question/29581524/answer/44872235)
 
 来源：知乎
 
 著作权归作者所有，转载请联系作者获得授权。
-
-
 
 这是一份针对实习生/毕业生的服务端开发入门与进阶指南。遇到问题及时问你的 mentor 或者直接问我。 建议：
 
@@ -25,9 +23,7 @@
    * 掌握开发工具
      * 熟练使用一种 IDE。Intellij IDEA或者 Eclipse 都可以，推荐使用前者。至少熟悉常用的快捷键，会 debug\(包括远程 debug\)项目。
      * 熟悉一种编辑器。比如 Vim/Emacs/Sublime Text，至少学会搜索/替换/代码补全。
-   * 掌握 JDK 以外的常用类库和工具包。JDK 原生 API 在很多场景下使用并不方便。你需要掌握社区贡献的优秀类库和工具包，比如 apache commons、google guava 等，具体可以翻阅
-     [服务端技术选型](https://blog.csdn.net/u013016525/article/details/60958018)
-     的Utility 篇。
+   * 掌握 JDK 以外的常用类库和工具包。JDK 原生 API 在很多场景下使用并不方便。你需要掌握社区贡献的优秀类库和工具包，比如 apache commons、google guava 等，具体可以翻阅[服务端技术选型](https://blog.csdn.net/u013016525/article/details/60958018)的Utility 篇。
    * 掌握 Web 开发框架。我们使用 Spring\(或Rose\) + Ibatis\(或Jade\) 开发 web 服务，你需要熟练掌握它们。
    * 学习代码规范。我们大致上遵循 oracle 的 Java 语言编码规范，你可以先阅读并熟悉它。Code Formatting 文件在 git@xxx/coding-standard.git，在编写代码之前，请把它导入到 IDE 中。另外，确认 IDE 已经安装 Findbugs 和 CheckStyle 插件。
    * 熟悉开发流程。我们的开发流程大致如下：功能开发-&gt;单元测试-&gt;功能测试-&gt;Code Review-&gt;集成测试-&gt;发布。确保你熟悉其中的每个环节。
