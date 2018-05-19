@@ -22,8 +22,6 @@
 
 ![](/assets/idea5.png)
 
-
-
 点击next
 
 ![](/assets/idea6.png)
@@ -32,21 +30,29 @@
 
 ![](/assets/idea7.png)
 
-
-
 如果报错，可以尝试rebuild一下
 
 ![](/assets/idea8.png)
 
 
 
+3 初始化数据库
+
+默认为mysql数据库
+
+创建数据库，并执行sql，完成数据库基础表和数据的初始化
 
 
 
+4 修改数据库配置参数
 
+找到application.yml\(或者application.propertie\)
 
+![](/assets/mysql1.png)
 
+根据自己的数据库信息进行配置，端口号、数据库名、用户名、密码。
 
+![](/assets/mysql2.png)
 
 
 
