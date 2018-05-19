@@ -2,6 +2,7 @@
 
 * [说明](README.md)
 * [学习建议](aaa.md)
+  * [建议](aaa/fu-wu-duan-kai-fa-ru-men-yu-jin-jie-zhi-nan.md)
 * [一 JAVA基础](chapter1.md)
 * [二 SPRING框架](er-spring.md)
   * [1 为什么要使用spring](er-spring/1-wei-shi-yao-yao-shi-yong-spring.md)
@@ -15,4 +16,6 @@
   * [4 前后端交互](san-kuang-jia-yun-yong/4-qian-hou-duan-jiao-hu.md)
   * [5 Layui框架使用](san-kuang-jia-yun-yong/layuikuang-jia-shi-yong.md)
   * 6 权限控制
+* [学习进度](xue-xi-jin-du.md)
+  * [进度](xue-xi-jin-du/jin-du.md)
 
