@@ -34,15 +34,11 @@
 
 ![](/assets/idea8.png)
 
-
-
 3 初始化数据库
 
 默认为mysql数据库
 
 创建数据库，并执行sql，完成数据库基础表和数据的初始化
-
-
 
 4 修改数据库配置参数
 
@@ -54,5 +50,25 @@
 
 ![](/assets/mysql2.png)
 
+5 安装redis
 
+因为项目中使用redis保存每个用户的token，所以运行前必须保证redis服务启动
+
+Windows版redis下载路径
+
+[https://github.com/MicrosoftArchive/redis/releases](https://github.com/MicrosoftArchive/redis/releases)
+
+安装zip的免安装版本即可
+
+双击redis server.exe即可运行
+
+6 启动系统
+
+![](/assets/start.png)
+
+右键Run As或者DebugAs-&gt;JavaApplication
+
+7 在浏览器输入http://localhost:8080
+
+出现下面界面，说明启动成功![](/assets/loginjpg.png)
 
