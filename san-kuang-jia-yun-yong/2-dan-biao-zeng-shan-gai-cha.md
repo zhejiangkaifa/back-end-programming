@@ -22,5 +22,15 @@
 
 ![](/assets/屏幕快照 2018-05-23 下午12.04.32.png)
 
+将mapper文件拷贝至mybatis-mappers
+
+![](/assets/屏幕快照 2018-05-23 下午12.09.04.png)
+
+将controller dao model 三个文件拷贝到对应的文件夹
+
+![](/assets/屏幕快照 2018-05-23 下午12.10.56.png)
+
+3 生成菜单
+
 
 
