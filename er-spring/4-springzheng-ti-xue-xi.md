@@ -6,5 +6,7 @@
 
 2 精通spring4.x实战
 
-https://book.douban.com/subject/26952826/
+[https://book.douban.com/subject/26952826/](https://book.douban.com/subject/26952826/)
+
+这两本相对版本比较新
 
