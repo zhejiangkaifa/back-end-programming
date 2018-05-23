@@ -10,11 +10,13 @@
 
 5 编写service文件
 
-6 实现serviceimpl文件 
+6 实现serviceimpl文件
 
 7 编写controller文件
 
 8 修改config/SecurityConfig.java\(为了暂时屏蔽安全过滤，方便下一步的接口调试\)
 
 9 swagger页面进行接口调试
+
+10 调试成功后应将config/SecurityConfig.java改回
 
