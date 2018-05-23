@@ -2,8 +2,10 @@
 
 * [说明](README.md)
 * [学习建议](aaa.md)
-  * [建议](aaa/fu-wu-duan-kai-fa-ru-men-yu-jin-jie-zhi-nan.md)
+  * [其他建议](aaa/fu-wu-duan-kai-fa-ru-men-yu-jin-jie-zhi-nan.md)
 * [一 JAVA基础](chapter1.md)
+  * [1 java反射机制](chapter1/1-javafan-she-ji-zhi.md)
+  * [2 java注解](chapter1/2-javazhu-jie.md)
 * [二 SPRING框架](er-spring.md)
   * [1 为什么要使用spring](er-spring/1-wei-shi-yao-yao-shi-yong-spring.md)
   * [2 Spring Ioc 概念](er-spring/1-spring-ioc-gai-nian.md)
