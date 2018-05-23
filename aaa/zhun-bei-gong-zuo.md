@@ -10,3 +10,5 @@
 
 6 准备一个好用的编辑器，比如sublime text
 
+7 了解下maven，git的基本概念与操作
+
