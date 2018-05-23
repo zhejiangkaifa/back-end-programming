@@ -4,6 +4,7 @@
 * [学习建议](aaa.md)
   * [学习步骤（知乎）](aaa/xue-xi-bu-zou-ff08-zhi-hu-ff09.md)
   * [其他建议](aaa/fu-wu-duan-kai-fa-ru-men-yu-jin-jie-zhi-nan.md)
+  * [准备工作](aaa/zhun-bei-gong-zuo.md)
 * [一 JAVA基础](chapter1.md)
   * [1 java反射机制](chapter1/1-javafan-she-ji-zhi.md)
   * [2 java注解](chapter1/2-javazhu-jie.md)
