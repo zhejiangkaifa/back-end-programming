@@ -1,6 +1,6 @@
 一 spring框架基础
 
-1 按照马士兵的spring视频，本地实现一个简易spring（参见模拟spring01-07）
+1 按照马士兵的spring视频的步骤，本地实现一个简易spring（参见模拟spring01-07）
 
 完成后将代码提交至github，并在下表中填入姓名，完成时间及github代码地址
 
