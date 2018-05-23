@@ -1,6 +1,6 @@
 后端：
 
-Jdk 1.8
+Jdk 1.8
 
 核心框架：Springboot
 
@@ -18,7 +18,15 @@ Jdk 1.8
 
 
 
+前端：
 
+javascript
+
+jquery
+
+layui
+
+ztree
 
 
 
