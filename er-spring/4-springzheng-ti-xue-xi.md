@@ -8,5 +8,5 @@
 
 [https://book.douban.com/subject/26952826/](https://book.douban.com/subject/26952826/)
 
-这两本相对版本比较新
+这两本相对版本比较新，实际写代码时可以当资料查阅
 

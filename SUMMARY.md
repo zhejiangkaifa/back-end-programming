@@ -12,7 +12,7 @@
   * [1 为什么要使用spring](er-spring/1-wei-shi-yao-yao-shi-yong-spring.md)
   * [2 Spring Ioc 概念](er-spring/1-spring-ioc-gai-nian.md)
   * [3 Spring AOP 概念](er-spring/2-spring-aop-gai-nian.md)
-  * [4 spring整体学习](er-spring/4-springzheng-ti-xue-xi.md)
+  * [4 spring实战](er-spring/4-springzheng-ti-xue-xi.md)
 * [三 框架运用](san-kuang-jia-yun-yong.md)
   * [0 框架技术](san-kuang-jia-yun-yong/0-kuang-jia-ji-zhu.md)
   * [1 框架搭建与运行](san-kuang-jia-yun-yong/1-kuang-jia-da-jian-yu-yun-xing.md)
