@@ -2,7 +2,9 @@
 
 1 spring4实战
 
-https://book.douban.com/subject/26767354/
+[https://book.douban.com/subject/26767354/](https://book.douban.com/subject/26767354/)
 
-2 实战spring4.x
+2 精通spring4.x实战
+
+https://book.douban.com/subject/26952826/
 
