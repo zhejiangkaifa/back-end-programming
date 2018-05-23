@@ -8,3 +8,5 @@
 
 5 安装好IntelliJ IDEA
 
+6 准备一个好用的编辑器，比如sublime text
+
