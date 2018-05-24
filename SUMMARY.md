@@ -20,7 +20,7 @@
   * [3 多表/自定义业务实现](san-kuang-jia-yun-yong/3-duo-8868-zi-ding-yi-ye-wu-shi-xian.md)
   * [4 前后端交互](san-kuang-jia-yun-yong/4-qian-hou-duan-jiao-hu.md)
   * [5 Layui框架使用](san-kuang-jia-yun-yong/layuikuang-jia-shi-yong.md)
-  * 6 权限控制
+  * [6 权限控制](san-kuang-jia-yun-yong/6-quan-xian-kong-zhi.md)
 * [学习进度](xue-xi-jin-du.md)
   * [进度](xue-xi-jin-du/jin-du.md)
 
