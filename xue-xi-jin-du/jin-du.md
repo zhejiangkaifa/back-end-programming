@@ -42,7 +42,7 @@
 
 | 姓名 | 完成时间 | github地址 | 备注 |
 | :--- | :--- | :--- | :--- |
-| 马宇昊 | 2018.5.24 | https://github.com/mayuhao/boot-security |  |
+| 马宇昊 | 2018.5.24 | [https://github.com/mayuhao/boot-security](https://github.com/mayuhao/boot-security) |  |
 
 4 前后端交互
 
@@ -52,11 +52,7 @@
 
 | 姓名 | 完成时间 | github地址 | 备注 |
 | :--- | :--- | :--- | :--- |
-| 马宇昊 | 2018.5.25 | https://github.com/mayuhao/boot-security | remote\_test.html在static目录下 |
-
-
-
-
+| 马宇昊 | 2018.5.25 | [https://github.com/mayuhao/boot-security](https://github.com/mayuhao/boot-security) | remote\_test.html在static目录下，实现了用户登陆，并在方法后拼接token=来通过spring security验证 |
 
 
 
