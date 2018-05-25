@@ -42,7 +42,21 @@
 
 | 姓名 | 完成时间 | github地址 | 备注 |
 | :--- | :--- | :--- | :--- |
-|  |  |  |  |
+| 马宇昊 | 2018.5.24 | https://github.com/mayuhao/boot-security |  |
+
+4 前后端交互
+
+编写一个html页面，实现接口的ajax调用（首先实现一个用户登陆接口，用来生成token）
+
+完成后将姓名，完成时间及代码地址填写到下表
+
+| 姓名 | 完成时间 | github地址 | 备注 |
+| :--- | :--- | :--- | :--- |
+| 马宇昊 | 2018.5.25 | https://github.com/mayuhao/boot-security | remote\_test.html在static目录下 |
+
+
+
+
 
 
 
