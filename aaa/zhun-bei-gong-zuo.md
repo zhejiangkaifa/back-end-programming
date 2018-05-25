@@ -12,3 +12,5 @@
 
 7 了解下maven，git的基本概念与操作
 
+8 准备一个stackflow账号
+
