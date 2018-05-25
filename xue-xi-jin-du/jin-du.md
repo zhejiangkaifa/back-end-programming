@@ -12,17 +12,13 @@
 
 1 框架搭建与运行
 
-在本地搭建springboot脚手架项目，并正常运行，将代码提交至github
+在本地搭建springboot脚手架项目，并正常运行
 
-完成后将姓名，完成时间及代码地址填写到下表
 
-| 姓名 | 完成时间 | github地址 | 备注 |
-| :--- | :--- | :--- | :--- |
-|  |  |  |  |
 
 2 代码生成，实现单表增删改查
 
-新建业务表（比如，新建一个部门表），按“三 框架运用 1 框架搭建与运行“的步骤，在本地重现代码生成的过程，并最终实现增删改查的页面的正常显示与操作，将代码提交github（新开一个github地址），github中对实现的菜单功能做简要的描述
+新建业务表（比如，新建一个部门表），按“三 框架运用 1 框架搭建与运行“的步骤，在本地重现代码生成的过程，并最终实现增删改查的页面的正常显示与操作，将代码提交github（新开一个github地址，或者在重要节点提交注释），github中对实现的菜单功能做简要的描述
 
 完成后将姓名，完成时间及代码地址填写到下表
 
@@ -36,13 +32,14 @@
 
 此部分不使用代码生成工具，纯手工实现mapper，model，dao，service，controller，并swagger接口测试通过
 
-完成后将代码提交至github（新开一个github地址 ），并做简要的描述
+完成后将代码提交至github（新开一个github地址，或者在重要节点提交注释 ），并做简要的描述
 
 完成后将姓名，完成时间及代码地址填写到下表
 
 | 姓名 | 完成时间 | github地址 | 备注 |
 | :--- | :--- | :--- | :--- |
 | 马宇昊 | 2018.5.24 | [https://github.com/mayuhao/boot-security](https://github.com/mayuhao/boot-security) |  |
+|  |  |  |  |
 
 4 前后端交互
 
@@ -53,6 +50,7 @@
 | 姓名 | 完成时间 | github地址 | 备注 |
 | :--- | :--- | :--- | :--- |
 | 马宇昊 | 2018.5.25 | [https://github.com/mayuhao/boot-security](https://github.com/mayuhao/boot-security) | remote\_test.html在static目录下，实现了用户登陆，并在方法后拼接token=来通过spring security验证 |
+|  |  |  |  |
 
 
 
