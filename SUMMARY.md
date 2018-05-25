@@ -21,8 +21,8 @@
   * [4 前后端交互](san-kuang-jia-yun-yong/4-qian-hou-duan-jiao-hu.md)
   * [5 Layui框架使用](san-kuang-jia-yun-yong/layuikuang-jia-shi-yong.md)
   * [6 权限控制](san-kuang-jia-yun-yong/6-quan-xian-kong-zhi.md)
-  * 7 异常抛出
-  * 8 自定义注解
+  * [7 异常抛出](san-kuang-jia-yun-yong/7-yi-chang-pao-chu.md)
+  * [8 自定义注解](san-kuang-jia-yun-yong/8-zi-ding-yi-zhu-jie.md)
 * [学习进度](xue-xi-jin-du.md)
   * [进度](xue-xi-jin-du/jin-du.md)
 
