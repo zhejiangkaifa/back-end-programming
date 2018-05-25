@@ -4,7 +4,10 @@
 
 3 通过加参数或者在header头中添加自定义参数的方式，由前端向后端传递token值
 
-ajax示例如下，完整代码参见
+ajax示例如下，完整代码参见[https://github.com/mayuhao/boot-security](https://github.com/mayuhao/boot-security) /static/remote_test.html
 
-![](/assets/屏幕快照 2018-05-25 上午10.28.35.png)
+![](/assets/import.png)
+
+
+
 
