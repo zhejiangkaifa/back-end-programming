@@ -4,7 +4,7 @@
 
 1gitbook登陆地址[https://legacy.gitbook.com](https://legacy.gitbook.com) 账号 zhejiangkaifa/zhejiangkaifa
 
-2该电子书同步于以下同名github账号的同名repos：
+2该电子书同步于以下同名github账号\(www.GitHub.com\)的同名repos：
 
 zhejiangkaifa/zhejiangkaifa123
 
