@@ -18,7 +18,7 @@
 
 | 姓名 | 完成时间 | 备注 |
 | :--- | :--- | :--- |
-| 马宇昊 | 2018.3 |  |
+| 马宇昊 | 2018.4 |  |
 |  |  |  |
 
 2 代码生成，实现单表增删改查
@@ -29,7 +29,7 @@
 
 | 姓名 | 完成时间 | github地址 | 备注 |
 | :--- | :--- | :--- | :--- |
-| 马宇昊 | 2018.3 | [https://github.com/mayuhao/boot-security](https://github.com/mayuhao/boot-security) |  |
+| 马宇昊 | 2018.4 | [https://github.com/mayuhao/boot-security](https://github.com/mayuhao/boot-security) |  |
 |  |  |  |  |
 
 3 多表/自定义业务实现
